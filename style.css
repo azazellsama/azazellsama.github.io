@@ -253,6 +253,7 @@ h6 {
 
 .mb-50 {
 	margin-bottom: 50px !important;
+	vertical-align: middle;
 }
 
 .mb-100 {
